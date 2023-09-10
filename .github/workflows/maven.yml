@@ -23,6 +23,6 @@ jobs:
         with:
           name: my-artifact
           path: |
-            server/target/kkFileView-4.3.0.jar
-            server/target/kkFileView-4.3.0.zip
-            server/target/kkFileView-4.3.0.tar.gz
+            server/target/kkFileView-*.jar
+            server/target/kkFileView-*.zip
+            server/target/kkFileView-*.tar.gz
